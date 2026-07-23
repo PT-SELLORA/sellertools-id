@@ -35,7 +35,7 @@ export const metadata: Metadata = {
       "Ekstensi Chrome AI yang membantu seller Shopee membalas chat pembeli lebih cepat dan akurat. Didukung knowledge base toko, multi-toko, dan autonomy slider.",
     images: [
       {
-        url: "/og-image.png",
+        url: "/api/og?title=SellerTools.id&subtitle=AI+Reply+Otomatis+untuk+Shopee+Seller+Center&chip=SellerTools&category=homepage",
         width: 1200,
         height: 630,
         alt: "SellerTools.id — AI Reply untuk Shopee Seller",
@@ -47,7 +47,9 @@ export const metadata: Metadata = {
     title: "SellerTools.id — AI Reply Otomatis untuk Shopee Seller Center",
     description:
       "Ekstensi Chrome AI yang membantu seller Shopee membalas chat pembeli lebih cepat dan akurat.",
-    images: ["/og-image.png"],
+    images: [
+      "/api/og?title=SellerTools.id&subtitle=AI+Reply+Otomatis+untuk+Shopee+Seller+Center&chip=SellerTools",
+    ],
   },
   robots: {
     index: true,
