@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: "%s | SellerTools.id",
   },
   description:
-    "Ekstensi Chrome AI yang membantu seller Shopee membalas chat pembeli lebih cepat dan akurat. Didukung knowledge base toko, multi-toko, dan autonomy slider. Gratis dicoba.",
+    "Ekstensi Chrome AI untuk seller Shopee — balas chat pembeli otomatis pakai AI. Knowledge base toko, multi-toko, autonomy slider. Pasang gratis.",
   keywords: [
     "shopee seller tools",
     "ai reply shopee",
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     siteName: "SellerTools.id",
     title: "SellerTools.id — AI Reply Otomatis untuk Shopee Seller Center",
     description:
-      "Ekstensi Chrome AI yang membantu seller Shopee membalas chat pembeli lebih cepat dan akurat. Didukung knowledge base toko, multi-toko, dan autonomy slider.",
+      "Ekstensi Chrome AI untuk seller Shopee — balas chat pembeli otomatis pakai AI. Knowledge base toko, multi-toko, autonomy slider. Pasang gratis.",
     images: [
       {
         url: "/api/og?title=SellerTools.id&subtitle=AI+Reply+Otomatis+untuk+Shopee+Seller+Center&chip=SellerTools&category=homepage",
