@@ -166,7 +166,7 @@ export default function Home() {
             Tersedia untuk Shopee Seller Center
           </div>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight mb-6">
-            Balas Chat Shopee
+            Balas Chat Shopee{" "}
             <br />
             <span className="text-blue-400">Otomatis dengan AI</span>
           </h1>
